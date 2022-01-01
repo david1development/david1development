@@ -63,11 +63,13 @@ html {
     height: 100vh;
     overflow-x: hidden;
     scroll-behavior: auto;
+    background-color: #fff;
 }
 
 body {
     width: 100%;
     height: 100vh;
+    background-color: #fff;
 }
 
 .otp1 {
@@ -135,6 +137,34 @@ body {
     font-style: italic;
 }
 
+.tablepricesrental {
+    background-color: rgb(12, 38, 61);
+    width: 100%;
+    padding: 4px;
+}
+
+.tablepricesrental th {
+    text-align: left;
+    color: #fff;
+    font-weight: 500;
+}
+.tablepricesrental th:first-child {
+    width: 65%;
+}
+
+.tablepricesrental td {
+    color: rgba(255,255,255,0.7);
+}
+
+@media (max-width: 645px) {
+    .tablepricesrental th {
+        font-size: 13px;
+    }
+    .tablepricesrental td {
+        font-size: 10px;
+    }
+}
+
 
 /* SESION2 START */
 
@@ -162,7 +192,6 @@ body {
 
 .textss1 p {
     font-weight: 550;
-    color: #111;
     font-size: 14px;
     width: 50vw;
 }
@@ -485,6 +514,9 @@ footer {
 
 .div2footer h1 {
     color: #1381fd;
+}
+
+.div2footer p {
 }
 
 .div2footer p a {
