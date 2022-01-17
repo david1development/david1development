@@ -246,6 +246,25 @@ body {
     width: 120px;
 }
 
+.textms h1 {
+    text-align: center;
+    font-size: 18.5px;
+}
+
+.imagesms {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: center;
+    padding: 40px 0;
+}
+
+.imagesms img {
+    width: 25vw;
+    margin: 0 15px;
+}
+
 .boxauto {
     display: flex;
     flex-direction: column;
@@ -464,6 +483,15 @@ body {
      .box2full {
          flex-direction: column;
      }
+     .imagesms {
+         flex-direction: column;
+         justify-content: center;
+         align-items: center;
+     }
+     .imagesms img{
+         margin: 15px 0;
+         width: 80vw;
+     }
 }
 
 @media (max-width: 400px) {
@@ -591,6 +619,6 @@ footer {
 }
 
 .napomena {
-    font-size: 18px;
+    font-size: 15px;
     text-align: center;
 }
