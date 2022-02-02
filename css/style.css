@@ -509,6 +509,9 @@ body {
     .skimakers img {
         width: 60px;
     }
+    .otp1 ul a {
+        font-size: 11px;
+    }
     .box1 {
         transform: scale(0.9);
         margin-bottom: -20px;
