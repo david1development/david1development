@@ -19,4 +19,5 @@
     <img src="https://th.bing.com/th/id/R.b4de5578860cdc8e8a9a73feadf3fa06?rik=sFmUVMbVGFUkJg&riu=http%3a%2f%2fiandow.github.io%2fimg%2f1024px-Vue.js_Logo_2.svg.png&ehk=XProk8%2fswz95wRic67ZRM%2b%2fJcpTCfIYwTwhYL%2baXUg0%3d&risl=&pid=ImgRaw&r=0" alt="" width="75"/>
     <img src="https://th.bing.com/th/id/R.4a4d448f5f01c81b630b5fca68fb1926?rik=8xhpxj2ohbG%2frA&pid=ImgRaw&r=0" alt="" width="75"/>
   </div>
+  <a href="htts://instagram.com/__dado.0" target="__blank"><img src="https://th.bing.com/th/id/R.1e1fe7050fc9d37f3091fa0f40c7fb13?rik=%2bnNxMnyBnDt7Pg&riu=http%3a%2f%2fwilltorock.com%2fwp-content%2fuploads%2f2020%2f02%2fInstagram-Logo.png&ehk=Z8ByAIuOScXjUE1f6M3hvUIiItUAyqJasbgeEBtXi9E%3d&risl=&pid=ImgRaw&r=0" width="80"/></a>
 </div>
