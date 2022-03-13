@@ -6,12 +6,12 @@
   <h5>📚 Development languages i learning : <b>Node.js, Php, Python.</b></h5>
   <h5>🗣️ Languages i know : <b>Serbo-Croatian and English.</b></h5>
   
-  <div>
+  <div align="center">
     <img src="https://clipground.com/images/html5-logo-2.png" alt="" width="75"/>
     <img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" alt="" width="75"/>
     <img src="https://th.bing.com/th/id/R.4cb2d3028fa2487ea50620239536e26e?rik=V1xpKI94DUKnfQ&pid=ImgRaw&r=0" alt="" width="75"/>
   </div>
-  <div>
+  <div align="center">
     <img src="https://th.bing.com/th/id/OIP.QdIrCNdF2ZVylABjjes1LAHaGq?pid=ImgDet&rs=1" alt="" width="75"/>
     <img src="https://th.bing.com/th/id/R.8122358dfcc3f3edfac0e6cdfed694ce?rik=PMGqQUGVFvIDng&riu=http%3a%2f%2fwww.thecreatorhome.com%2fstatic%2fimg%2freact-icon-0.png&ehk=cRg%2bw6UoSA3zfvHm3FhLgkoIX%2fjZ2Pza%2b4cpRBNo7Ao%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1" alt="" width="75"/>
     <img src="https://th.bing.com/th/id/R.25670a7639099546cf0aef19da5287ce?rik=0IQKhsGV1Jybnw&pid=ImgRaw&r=0" alt="" width="75"/>
