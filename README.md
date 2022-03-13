@@ -14,9 +14,9 @@
   <div>
     <img src="https://th.bing.com/th/id/OIP.QdIrCNdF2ZVylABjjes1LAHaGq?pid=ImgDet&rs=1" alt="" width="75"/>
     <img src="https://th.bing.com/th/id/R.8122358dfcc3f3edfac0e6cdfed694ce?rik=PMGqQUGVFvIDng&riu=http%3a%2f%2fwww.thecreatorhome.com%2fstatic%2fimg%2freact-icon-0.png&ehk=cRg%2bw6UoSA3zfvHm3FhLgkoIX%2fjZ2Pza%2b4cpRBNo7Ao%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1" alt="" width="75"/>
+    <img src="https://th.bing.com/th/id/R.25670a7639099546cf0aef19da5287ce?rik=0IQKhsGV1Jybnw&pid=ImgRaw&r=0" alt="" width="75"/>
     <img src="https://th.bing.com/th/id/R.8a50b602aa79b19775c22d02a290f51f?rik=czogydEprX9aOg&pid=ImgRaw&r=0" alt="" width="75"/>
     <img src="https://th.bing.com/th/id/R.b4de5578860cdc8e8a9a73feadf3fa06?rik=sFmUVMbVGFUkJg&riu=http%3a%2f%2fiandow.github.io%2fimg%2f1024px-Vue.js_Logo_2.svg.png&ehk=XProk8%2fswz95wRic67ZRM%2b%2fJcpTCfIYwTwhYL%2baXUg0%3d&risl=&pid=ImgRaw&r=0" alt="" width="75"/>
     <img src="https://th.bing.com/th/id/R.4a4d448f5f01c81b630b5fca68fb1926?rik=8xhpxj2ohbG%2frA&pid=ImgRaw&r=0" alt="" width="75"/>
-    <img src="https://th.bing.com/th/id/OIP.QdIrCNdF2ZVylABjjes1LAHaGq?pid=ImgDet&rs=1" alt="" width="75"/>
   </div>
 </div>
